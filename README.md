@@ -1,2 +1,2 @@
 # juaconnect-marketplace
-Full-stack Skilled Labor Marketplace using React 19, Node.js, and MongoDB
+Hyper-local skilled labor marketplace connecting artisans with clients. Built with MERN Stack (React 19 + Node.js
